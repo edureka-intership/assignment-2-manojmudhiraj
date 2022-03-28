@@ -1,0 +1,127 @@
+
+body{
+    margin:auto;
+}
+a{
+    text-decoration:none;
+}
+/*header css*/
+#header{
+    height:60px;
+    background-color:#f79a4c;   
+}
+#icon{
+    float:left;
+    margin-left: 1%;
+    margin-top:-1%;
+}
+#social{
+    float:right;
+}
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+.back{
+    margin-left: 92%;
+}
+.headingText{
+    text-align: center;
+    font-size:30px;
+    font-weight:bold;
+}
+
+#filterDiv{
+    height:600px;
+    width:20%;
+    float:left;   
+    border: 2px solid black; 
+    margin-left: 2px;
+}
+h2{
+    text-align:center;
+    color:blue;
+}
+h4{
+    margin-left: 10px;
+    color:rgb(158, 9, 9);
+}
+
+.contentDiv{
+    height:600px;
+    width:77%;
+    margin-left: 2%;
+    float: left;   
+}
+
+.imgDiv{
+    height:600px;
+    width:45%;
+    float: left;
+    border:8px groove gray;
+}
+
+.imgDiv > img {
+    height:588px;
+    width:100%;
+}
+.content{
+    height:600px;
+    width:50%;
+    float: left;
+    margin-left:3%
+}
+
+.checked{
+    color:red;
+}
+
+.feature_container{
+    width:100%;
+    display: inline-block;
+}
+.feature{
+    float: left;
+    margin-left:5%
+}
+.fetIcon{
+    height:100px;
+    width:100px;
+    margin-left:2%
+}
+#make{
+    color:green;
+    font-size:35px; 
+}
+
+/*footer css*/
+#footer{
+    height:150px;
+    width:100%;
+    margin-top:40%;
+    background-color:#f79a4c;
+}
+#footText{
+text-align:center;
+font-weight: bold;
+}
+.footDiv{
+    height:103px;
+    width:33%;
+    border-right: 2px solid black;
+    float:left;
+}
+.slogo1{
+    height: 50px;
+    width: 50px;
+    margin-left:17%;
+}
+.footDiv>p{
+    margin-left:2%;
+}
+.footerCenter{
+    text-align:center;
+}
+.noBorder{
+    border:none;
+}
